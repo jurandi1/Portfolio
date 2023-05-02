@@ -28,6 +28,10 @@ body {
     color: #FF6900;
     text-decoration: none;
 }
+.cabecalho__menu__link:hover {
+    text-decoration: underline;
+    color: #ff6a00bd;
+}
 
 .apresentacao {
     padding: 5% 15%;
@@ -40,7 +44,7 @@ body {
     width: 550px;
     display: flex;
     flex-direction: column;
-    gap: 40px 40px;
+    gap: 20px 20px;
 }
 
 .apresentacao__conteudo__titulo {
@@ -100,3 +104,50 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 18px;
 }
+
+/* Style Currículo */
+
+.apresentacao__conteudo__titulo {
+    margin: 0%;
+    padding: 1% 0% 0% 0%;
+}
+
+.skills_titulo {
+    color: #FF6900;
+}
+
+.apresentacao__conteudo__texto a{
+    text-decoration: none;
+    color: #FF6900;
+}
+
+
+.apresentacao__conteudo__texto a:hover{
+    text-decoration: underline;
+    color: #ff6a00bd;
+}
+
+.faculdade strong {
+    color: #FF6900;
+}
+
+li strong {
+    color: #FF6900;
+}
+
+.skills {
+    max-width: 450px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+.skills ul {
+    list-style-type: circle;
+}
+
+.skills ul li {
+    margin-top: 2px;
+    padding-bottom: 3px;
+    
+} 
