@@ -27,16 +27,16 @@ body {
     width: 550px;
     display: flex;
     flex-direction: column;
-    gap: 40px;
+    gap: 40px 40px;
 }
 
 .apresentacao__conteudo__titulo {
-    font-size: 32px;
+    font-size: 22px;
     font-family: 'Krona One', sans-serif;
 }
 
 .apresentacao__conteudo__paragrafo {
-    font-size: 24px;
+    font-size: 20px;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -45,18 +45,24 @@ body {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    gap: 32px;
+    gap: 30px;
+}
+
+.apresentacao__links__subtitulo {
+    font-family: 'Krona One', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
 }
 
 .apresentacao__links__link {
-    background-color: #FF6900;
-    width: 180px;
+    border: 2px solid #FF6900;
+    width: 340px;
     text-align: center;
     text-decoration: none;
-    border-radius: 15px;
-    font-size: 24px;
+    border-radius: 8px;
+    font-size: 18px;
     font-weight: 600;
-    padding: 18.45px 0;
-    color: black;
+    padding: 10px 0;
+    color: #FF6900;
     font-family: 'Montserrat', sans-serif;
 }
