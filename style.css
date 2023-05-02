@@ -55,12 +55,15 @@ body {
 }
 
 .apresentacao__links__link {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
     border: 2px solid #FF6900;
     width: 300px;
     text-align: center;
     text-decoration: none;
     border-radius: 8px;
-    font-size: 18px;
+    font-size: 14px;
     font-weight: 600;
     padding: 10px 0;
     color: #FF6900;
