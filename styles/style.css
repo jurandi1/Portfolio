@@ -49,6 +49,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 82px;
 }
 
 .apresentacao__conteudo {
@@ -165,3 +166,9 @@ li strong {
     font-family: var(--font-secundaria);
     font-size: 0.875rem;
 } 
+
+@media (max-width: 900px) {
+    .apresentacao {
+        flex-direction: column-reverse;
+    }
+}
