@@ -18,7 +18,7 @@ Projeto criado a partir do curso de HTML5 e CSS3 da [Alura](https://www.alura.co
 
 Você pode [baixá-lo aqui](https://github.com/jurandi1/portfolio/archive/refs/heads/main.zip).
 
-Você pode [acessa-lo no seu navegador aqui](https://meu-repositorio-red.vercel.app/).
+Você pode [acessa-lo no seu navegador aqui](https://my-repository-peach-eight.vercel.app/).
 
 <h2>Desenvolvedor</h2>
 
