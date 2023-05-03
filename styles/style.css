@@ -34,7 +34,7 @@ body {
 
 .cabecalho__menu__link {
     font-family: var(--font-secundaria);
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: 600;
     color: var(--cor-terciaria);
     text-decoration: none;
@@ -59,12 +59,12 @@ body {
 }
 
 .apresentacao__conteudo__titulo {
-    font-size: 20px;
+    font-size: 1.55rem;
     font-family: var(--font-primaria);
 }
 
 .apresentacao__conteudo__subtitulo {
-    font-size: 18px;
+    font-size: 1.125rem;
     font-family: var(--font-primaria);
 }
 
@@ -73,7 +73,7 @@ body {
 }
 
 .apresentacao__conteudo__paragrafo {
-    font-size: 16px;
+    font-size: 1rem;
     font-family: var(--font-secundaria);
 }
 
@@ -100,7 +100,7 @@ body {
     text-align: center;
     text-decoration: none;
     border-radius: 8px;
-    font-size: 14px;
+    font-size: 0.875rem;
     font-weight: 600;
     padding: 10px 0;
     color: var(--cor-terciaria);
@@ -118,7 +118,7 @@ body {
     background-color: var(--cor-terciaria);
     text-align: center;
     font-family: var(--font-secundaria);
-    font-size: 18px;
+    font-size: 1.125rem;
 }
 
 .skills_titulo {
@@ -159,5 +159,5 @@ li strong {
     margin-top: 2px;
     padding-bottom: 3px;
     font-family: var(--font-secundaria);
-    font-size: 14px;
+    font-size: 0.875rem;
 } 
