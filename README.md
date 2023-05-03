@@ -1,12 +1,10 @@
-# Portfólio 
-
-## Olá, Bem vindo ao meu projeto de portfólio.
+<h1> Bem vindo ao meu projeto de portfólio </h1>
 
 ![portfolio](https://user-images.githubusercontent.com/105133847/235821234-d7f4fc5f-d80d-43e7-9733-1dbcd349f427.PNG)
 
 <h2>Introdução</h2>
 
-Projeto criado a partir do curso de HTML5 e CSS3 da [Alura](https://www.alura.com.br/curso-online-html5-css3-avancando-css), onde conto um pouco mais sobre mim e a trajetória que estou construíndo como desenvolvedor. Nessa página exploramos as prínciais funções das linguagens e colocamos em prática.
+Projeto onde conto um pouco mais sobre mim e a trajetória que estou construíndo como desenvolvedor. Nessa página explorei as prínciais funções das linguagens HTML e CSS.
 
 <h2>Ferramentas utilizadas</h2>
 
@@ -16,9 +14,7 @@ Projeto criado a partir do curso de HTML5 e CSS3 da [Alura](https://www.alura.co
    
 <h2>Acesso ao projeto</h2>
 
-Você pode [baixá-lo aqui](https://github.com/jurandi1/portfolio/archive/refs/heads/main.zip).
-
-Você pode [acessa-lo no seu navegador aqui](https://my-repository-peach-eight.vercel.app/).
+Você pode [acessa-lo diretamente no site](https://portfolio-mocha-one-53.vercel.app/) de qualquer dispositivo com acesso a internet ou você pode [baixá-lo](https://github.com/jurandi1/portfolio/archive/refs/heads/main.zip).
 
 <h2>Desenvolvedor</h2>
 
