@@ -4,7 +4,7 @@
 
 <h2>Introdução</h2>
 
-Projeto onde conto um pouco mais sobre mim e a trajetória que estou construíndo como desenvolvedor. Nessa página explorei as prínciais funções das linguagens HTML e CSS.
+Projeto onde conto um pouco mais sobre mim e a trajetória que estou construindo como desenvolvedor. Nesse projeto explorei as principais funções das linguagens de marcação HTML5 e CSS3 e coloquei na nuvem através da plataforma Vercel.
 
 <h2>Ferramentas utilizadas</h2>
 
