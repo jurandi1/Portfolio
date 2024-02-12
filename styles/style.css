@@ -20,6 +20,9 @@ body {
     box-sizing: border-box;
     background-color: var(--cor-primaria);
     color: var(--cor-secundaria);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
 .cabecalho {
@@ -124,6 +127,7 @@ body {
     text-align: center;
     font-family: var(--font-secundaria);
     font-size: 1.125rem;
+    margin-top: auto;
 }
 
 .skills_titulo {
@@ -187,3 +191,19 @@ li strong {
     }
 
 }
+
+.projeto {
+    display: flex; 
+    flex-direction: column; 
+    align-items: left; 
+    margin-bottom: 20px; 
+}
+
+.projeto__imagem {
+    width: 50%; 
+    height: auto; 
+    object-fit: cover; 
+    margin: 10px 0; 
+}
+
+
