@@ -174,23 +174,39 @@ li strong {
 @media (max-width: 900px) {
 
     .cabecalho {
-        padding: 10%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 5%;
+    }
+
+    .logo {
+        width: 50px; 
+        margin-bottom: 20px; /* Adicione uma margem inferior para separar o logo do menu */
     }
 
     .cabecalho__menu {
-        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
     }
 
     .apresentacao {
-        flex-direction: column-reverse;
+        flex-direction: column;
+        align-items: center;
         padding: 5%;
     }
 
     .apresentacao__conteudo {
         width: auto;
+        text-align: center;
     }
 
+    .apresentacao__imagem {
+        width: 100%;
+    }
 }
+
 
 .projeto {
     display: flex; 
@@ -204,6 +220,17 @@ li strong {
     height: auto; 
     object-fit: cover; 
     margin: 10px 0; 
+}
+
+.logo {
+    top: 50px; 
+    left: 100px; 
+    width: 100px; 
+    padding-bottom: 10px;
+}
+
+.social-icon {
+    width: 22px; /* Ajuste o tamanho conforme necessário */
 }
 
 
