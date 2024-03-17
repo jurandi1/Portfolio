@@ -236,4 +236,21 @@ li strong {
     width: 22px; /* Ajuste o tamanho conforme necessário */
 }
 
+/* PRODUTOS */
 
+.produtos {
+    display: flex; 
+    flex-direction: column; 
+    align-items: left; 
+    margin-bottom: 20px; 
+}
+
+.produto__imagem {
+    width: 100%;  /* Ajusta a largura da imagem para preencher o contêiner */
+    height: auto; /* Mantém a proporção da imagem */
+    max-width: 150px; /* Define uma largura máxima para a imagem */
+}
+
+.imagem_menor {
+    max-width: 300px; /* Ajuste este valor conforme necessário */
+}
