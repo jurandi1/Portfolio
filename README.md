@@ -1,6 +1,6 @@
 <h1> Bem vindo ao meu projeto de portfólio </h1>
 
-![portfolio](https://user-images.githubusercontent.com/105133847/235821234-d7f4fc5f-d80d-43e7-9733-1dbcd349f427.PNG)
+![portfolio](https://github.com/jurandi1/portfolio/assets/105133847/5ff328d4-f02e-4da7-a38d-c66fa52830ff)
 
 <h2>Introdução</h2>
 
