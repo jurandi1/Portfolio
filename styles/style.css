@@ -216,10 +216,13 @@ li strong {
 }
 
 .projeto__imagem {
-    width: 50%; 
-    height: auto; 
-    object-fit: cover; 
-    margin: 10px 0; 
+    width: 100%;  /* Ajusta a largura da imagem para preencher o contêiner */
+    height: auto; /* Mantém a proporção da imagem */
+    max-width: 350px; /* Define uma largura máxima para a imagem */
+}
+
+.imagem_menor {
+    max-width: 300px; /* Ajuste este valor conforme necessário */
 }
 
 .logo {
