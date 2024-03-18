@@ -117,7 +117,7 @@ body {
 }
 
 .apresentacao__imagem {
-    width: 50%;
+    width: 25%;
 }
 
 .rodape {
@@ -203,8 +203,9 @@ li strong {
     }
 
     .apresentacao__imagem {
-        width: 100%;
+        width: 50%;
     }
+
 }
 
 
@@ -253,4 +254,9 @@ li strong {
 
 .imagem_menor {
     max-width: 300px; /* Ajuste este valor conforme necessário */
+}
+
+.video {
+    width: 315px;
+    margin: 2em auto;
 }
